@@ -42,7 +42,4 @@ export default class rnTest extends Component{
   }
 }
 
-
-
-
 AppRegistry.registerComponent('rnTest', () => rnTest);
